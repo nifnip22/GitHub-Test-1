@@ -8,3 +8,8 @@ Programming Languages or Tools for Website that I Used Commonly:
 5. JQuery
 6. XAMPP with MySQL
 7. PHP
+
+Next Plan :
+1. Learning GitHub (On-go)
+2. Learning Laravel Language
+3. ---
